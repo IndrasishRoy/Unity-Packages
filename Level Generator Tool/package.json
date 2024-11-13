@@ -1,0 +1,20 @@
+{
+  "name": "IndrasishRoy.WordPuzzle.levelgenerationtool",
+  "version": "1.0.0",
+  "displayName": "Level Generator Tool",
+  "description": "A tool to generate levels for Word Puzzle game.",
+  "unity": "2020.1",
+  "author": {
+    "name": "Indrasish Roy",
+    "email": "Indrasishroy17@gmail.com",
+    "url": "#"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "level generation",
+    "editor tool",
+    "game tools"
+  ]
+}
