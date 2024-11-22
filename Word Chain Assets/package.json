@@ -1,0 +1,20 @@
+{
+    "name": "IndrasishRoy.WordChain",
+    "version": "1.0.0",
+    "displayName": "Word Chain Assets",
+    "description": "Contains the assets(UI) of Word Chain game.",
+    "unity": "2022.3.22f1",
+    "author": {
+      "name": "Indrasish Roy",
+      "email": "Indrasishroy17@gmail.com",
+      "url": "#"
+    },
+    "dependencies": {
+      "com.unity.textmeshpro": "3.0.6"
+    },
+    "keywords": [
+      "word chain",
+      "word chain UI",
+      "game UI"
+    ]
+  }
